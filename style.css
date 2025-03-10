@@ -1,0 +1,33 @@
+body
+{
+	background-color: pink; 
+	font-family: papyrus;
+	font-size: 20px;
+	color: white;
+
+}
+
+h1
+{
+	font-size: 48px;
+	color: blue !important;
+	text-align:center;
+}
+
+/* Nieodwiedzony link */
+a:link
+{
+	color: red;
+}
+
+/* Odwiedzony link */
+a:visited
+{
+	color:red;
+}
+
+/* Link po najechaniu kursorem */
+a:hover
+{
+	color: pink;
+}
